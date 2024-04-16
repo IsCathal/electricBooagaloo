@@ -19,7 +19,8 @@ npm install -g serve
 Clone the GitHub repository:
 
 git clone https://github.com/IsCathal/electricBooagaloo.git
-cd your-repository-name
+
+cd electricBooagaloo
 
 Install the necessary packages:
 
