@@ -1,0 +1,17 @@
+.section-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.inner-section {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    background-color: #e50909; /* Default background, in case no data-background is specified */
+}
+
+.inner-section h2 {
+    margin-top: 0;
+}
