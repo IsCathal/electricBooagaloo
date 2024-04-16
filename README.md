@@ -1,4 +1,4 @@
-# Reveal.js Presentation
+# Reveal.js electricBooagaloo
 
 This project is a presentation built with [Reveal.js](https://revealjs.com/), an open-source HTML presentation framework. It's fully featured, supporting advanced transitions, embedded content, and a whole lot more. Perfect for doing presentations on web development and design.
 
